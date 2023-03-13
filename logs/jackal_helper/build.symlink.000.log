@@ -1,0 +1,4 @@
+Symlinking /home/raj/jackal_ws/devel/share/jackal_helper/cmake/jackal_helperConfig-version.cmake
+Symlinking /home/raj/jackal_ws/devel/share/jackal_helper/cmake/jackal_helperConfig.cmake
+Symlinking /home/raj/jackal_ws/devel/lib/jackal_helper/collision_publisher_node
+Symlinking /home/raj/jackal_ws/devel/lib/pkgconfig/jackal_helper.pc

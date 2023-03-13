@@ -1,0 +1,19 @@
+CMake Warning (dev) at CMakeLists.txt:2 (project):
+  Policy CMP0048 is not set: project() command manages VERSION variables.
+  Run "cmake --help-policy CMP0048" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  The following variable(s) would be set to empty:
+
+    CMAKE_PROJECT_VERSION
+    CMAKE_PROJECT_VERSION_MAJOR
+    CMAKE_PROJECT_VERSION_MINOR
+    CMAKE_PROJECT_VERSION_PATCH
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[33m[1mCMake Warning[0m at /usr/share/cmake-3.16/Modules/FindProtobuf.cmake:499 (message):
+  Protobuf compiler version 3.15.8 doesn't match library version 3.6.1
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:23 (find_package)
+
+
